@@ -207,7 +207,7 @@
        <keepBranch>true</keepBranch>
        <skipTestProject>true</skipTestProject>
        <gitFlowConfig>
-           <productionBranch>master</productionBranch>
+           <productionBranch>main</productionBranch>
            <developmentBranch>develop</developmentBranch>
            <featureBranchPrefix>feature/</featureBranchPrefix>
            <releaseBranchPrefix>release/</releaseBranchPrefix>
