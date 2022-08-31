@@ -23,7 +23,7 @@
       
   <packaging>pom</packaging>
       
-  <version>1.0.3</version>
+  <version>1.0.4</version>
       
   <name>My Site</name>
       
@@ -204,7 +204,7 @@
    <configuration>
        <installProject>false</installProject>
        <verbose>false</verbose>
-       <keepBranch>true</keepBranch>
+       <keepBranch>false</keepBranch>
        <skipTestProject>true</skipTestProject>
        <gitFlowConfig>
            <productionBranch>main</productionBranch>
