@@ -205,6 +205,7 @@
        <installProject>false</installProject>
        <verbose>false</verbose>
        <keepBranch>false</keepBranch>
+       <pushRemote>true</pushRemote>
        <skipTestProject>true</skipTestProject>
        <gitFlowConfig>
            <productionBranch>main</productionBranch>
